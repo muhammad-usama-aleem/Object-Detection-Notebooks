@@ -1,3 +1,6 @@
 # Roboflow-Object-Detection-Notebooks
 
-Roboflow object detection tutorial - I
+Following Roboflow object detection tutorials
+
+![Alt text](Imagges/Model_Info.png)
+
