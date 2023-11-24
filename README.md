@@ -2,5 +2,5 @@
 
 Following Roboflow object detection tutorials
 
-![Alt text](Imagges/Model_Info.png)
+![Alt text](Images/Models_Info.png)
 
